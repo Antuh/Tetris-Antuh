@@ -1,0 +1,10 @@
+C:\Users\Андрей\Desktop\Tetris-c-sharp-master\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Андрей\Desktop\Tetris-c-sharp-master\Tetris\bin\Debug\Tetris.exe
+C:\Users\Андрей\Desktop\Tetris-c-sharp-master\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Андрей\Desktop\Tetris-c-sharp-master\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Андрей\Desktop\Tetris-c-sharp-master\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\Андрей\Desktop\Tetris-c-sharp-master\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Tetris-c-sharp-master\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\Tetris-c-sharp-master\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\Tetris-c-sharp-master\Tetris\obj\Debug\Tetris.exe
+C:\Users\Андрей\Desktop\Tetris-c-sharp-master\Tetris\obj\Debug\Tetris.pdb
